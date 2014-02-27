@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45886",
+               "short_name" : "45886",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gelsenkirchen",
+               "short_name" : "GE",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "45886 Gelsenkirchen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.515227,
+                  "lng" : 7.144146
+               },
+               "southwest" : {
+                  "lat" : 51.480833,
+                  "lng" : 7.097303999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4964248,
+               "lng" : 7.1215271
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.515227,
+                  "lng" : 7.144146
+               },
+               "southwest" : {
+                  "lat" : 51.480833,
+                  "lng" : 7.097303999999999
+               }
+            }
+         },
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}
