@@ -2,7 +2,7 @@
 
 namespace Qafoo\Fixtures;
 
-class GoogleLocationServiceTest extends \PHPUnit_Framework_TestCase
+class GoogleLocationServiceIntegrationTest extends \PHPUnit_Framework_TestCase
 {
     private $httpClient;
 
